@@ -1,4 +1,4 @@
-# churn - Price - Prediction
+# Churn - Price - Prediction
 
 📌 Project Overview
 Customer churn is a critical problem for businesses, especially in competitive industries like telecom, banking, and subscription-based services. This project aims to predict whether a customer is likely to churn using machine learning models based on historical customer data.
